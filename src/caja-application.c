@@ -46,7 +46,6 @@
 #include <libmate-desktop/mate-bg.h>
 
 #include <eel/eel-gtk-extensions.h>
-#include <eel/eel-gtk-macros.h>
 #include <eel/eel-stock-dialogs.h>
 
 #include <libcaja-private/caja-debug-log.h>
